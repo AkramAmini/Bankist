@@ -17,6 +17,9 @@ CSS: Style the visual appearance of the app
 
 # To test this application please use this fake Users data:
 User1 - login: js, PIN: 1111.
+
 User2 - login: jd, PIN: 2222.
+
 User3 - login: stw, PIN: 3333.
+
 User4 - login: ss, PIN: 4444.
