@@ -1,10 +1,14 @@
 # Bankist
 Bankist is an imaginary and simple online banking application that provides a seamless digital banking experience. It offers
 
-Login/Logout
+Login/Logout 
+
 Transfer
+
 Deposit
+
 Close Account
+
 Session Management
 
 # What is Bankist?
