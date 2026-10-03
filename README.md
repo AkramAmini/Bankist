@@ -1,19 +1,22 @@
-# Bankist App
+# Bankist
+Bankist is an imaginary and simple online banking application that provides a seamless digital banking experience. It offers
 
-Bank Application that displays current balance and any movements on the fake account. 
-It allows to transfer money to another account, sort movements, request loan and delete an account. Log out time - 5 min.
+ .Login/Logout
+ .Transfer
+ .Deposit
+ .Close Account
+ .Session Management
 
-# Features
-display current balance and movements on the account.
-allows to sort movements by incomes/outcomes.
-transfer money to other account (to test this you can use fake user data below).
-request a loan.
-close an account.
-log out from account after 5 min of session.
+# What is Bankist?
+Bankist is an imaginative and user-friendly online banking platform. While incorporating all the essential features of a real-world bank, Bankist also introduces some notable enhancements in terms of UI design and extended session management. This project was part of an online course. additionally, the session management functionality has been extended to ensure enhanced security and uninterrupted access for users.
 
-# Technology Stack
-JavaScript: built all functionality of app
-CSS: Style the visual appearance of the app
+# Accessing Accounts
+Here are the login credentials for accessing the bank functionality. All the data is stored and retrieved from local storage. Remember that the username should always be in lowercase when logging in.
+
+# Technologies Used
+HTML
+CSS
+JavaScript
 
 # To test this application please use this fake Users data:
 User1 - login: js, PIN: 1111.
