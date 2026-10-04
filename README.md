@@ -26,3 +26,12 @@ User2 - login: jd, PIN: 2222.
 User3 - login: stw, PIN: 3333.
 
 User4 - login: ss, PIN: 4444.
+
+# Screenshots
+
+<img width="1680" height="948" alt="project-preview-1" src="https://github.com/user-attachments/assets/b687b8c8-b2fd-4e37-9331-08daff058d22" />
+<img width="1680" height="946" alt="project-preview-2" src="https://github.com/user-attachments/assets/c6ddf954-4980-4095-8c95-edbbf8eed149" />
+<img width="1680" height="948" alt="project-preview-3" src="https://github.com/user-attachments/assets/c5a68d65-96e3-407b-a5ae-415d74968224" />
+
+
+
